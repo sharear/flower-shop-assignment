@@ -157,3 +157,42 @@ button {
 .service h4 {
   text-align: center;
 }
+
+.hot-deal {
+  width: 1200px;
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  padding: 5rem;
+}
+
+.hot-deal > * {
+  width: 50%;
+}
+
+.hot-deal-container {
+  width: 100vw;
+  margin-top: 5rem;
+  border-radius: 8px;
+  background: rgba(229, 84, 115, 0.05);
+}
+
+.hot-deal-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
+.hot-banner-title {
+  font-size: 1.8rem;
+}
+
+.hot-banner-title span {
+  color: #e55473;
+}
+
+.hot-banner-img {
+  width: 200px;
+  margin: 0 auto;
+}
