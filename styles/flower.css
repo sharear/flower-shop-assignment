@@ -161,3 +161,19 @@
   width: 900px;
   margin-top: 180px;
 }
+.footer-background {
+  width: 100%px;
+  height: 200px;
+  text-align: center;
+  background-color: #111010;
+  color: white;
+}
+.footer heading {
+  margin-top: 40px;
+  color: white;
+  font-size: 30px;
+}
+
+.pinku {
+  color: #e55473;
+}
