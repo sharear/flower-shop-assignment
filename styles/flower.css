@@ -135,6 +135,7 @@
 }
 .media-imagess {
   margin-top: 80px;
+  margin-bottom: 80px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -142,4 +143,21 @@
 }
 .m-image {
   height: 300px;
+}
+
+.conatact-background {
+  width: 1200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.contact-data {
+  height: 400px;
+  background-image: url("/Flower Asset/Rectangle\ 9.png");
+}
+
+.add-text {
+  height: 30px;
+  width: 900px;
+  margin-top: 180px;
 }
